@@ -1,6 +1,6 @@
 # forfun-app-docs
 
-Public legal pages for [GrailBot](https://github.com/ForFun1995/forfun-app) (Gunpla deal tracking, iOS).
+Public legal pages for Hangar4 (Gunpla deal tracking, iOS).
 
 Served via GitHub Pages at https://forfun1995.github.io/forfun-app-docs/
 

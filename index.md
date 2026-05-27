@@ -1,8 +1,8 @@
 ---
-title: GrailBot Legal
+title: Hangar4 Legal
 ---
 
-# GrailBot
+# Hangar4
 
 Automated Gunpla deal tracking.
 

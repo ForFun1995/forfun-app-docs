@@ -6,11 +6,11 @@ title: Privacy Policy
 
 _Last updated: 2026-05-26_
 
-GrailBot ("we," "us," "the app") is a Gunpla deal-tracking mobile app that scans publicly available retailer listings and surfaces deals matching your watchlists. This Privacy Policy describes what data we collect, how we use it, and your rights.
+Hangar4 ("we," "us," "the app") is a Gunpla deal-tracking mobile app that scans publicly available retailer listings and surfaces deals matching your watchlists. This Privacy Policy describes what data we collect, how we use it, and your rights.
 
 ## 1. What we collect
 
-When you use GrailBot, we collect the following:
+When you use Hangar4, we collect the following:
 
 - **Account information** — your email address and a hashed password (or, if you sign in with Apple, a pseudonymous Apple ID identifier). Stored in Supabase Auth.
 - **Watchlists you create** — the plain-English descriptions of items you want to track (e.g., "RG Unicorn under $80") and the parsed criteria derived from them. Stored in our Supabase database, scoped to your account.
@@ -34,7 +34,7 @@ We do **not** sell or share your data with advertisers. We do not run ads in the
 
 ## 3. Third parties
 
-GrailBot relies on the following third-party services to function:
+Hangar4 relies on the following third-party services to function:
 
 - **Supabase** (database, authentication, email delivery) — your account credentials, watchlists, opportunities, push tokens, and feedback are stored on Supabase infrastructure.
 - **OpenAI** — the canonical name and price of each candidate listing are sent to OpenAI's API for scoring. Your watchlist text is also included so the model can judge match quality. OpenAI's API does not train on this data by default.
@@ -57,7 +57,7 @@ You can:
 - Sign out at any time (Settings → Sign Out).
 - Request account deletion via the contact email below.
 - Request a copy of your data (export via SQL query on our side).
-- Withdraw consent for push notifications via iOS Settings → Notifications → ForFun.
+- Withdraw consent for push notifications via iOS Settings → Notifications → Hangar4.
 
 If you are a resident of the European Economic Area (GDPR), the UK, or California (CCPA/CPRA), additional rights apply including the right to object to processing, request rectification, and lodge a complaint with your supervisory authority.
 
@@ -74,7 +74,7 @@ No system is perfectly secure. If we become aware of a breach affecting your dat
 
 ## 7. Children
 
-GrailBot is not directed at children under 13. We do not knowingly collect data from children under 13. If you believe a child has provided data to us, please contact us so we can delete it.
+Hangar4 is not directed at children under 13. We do not knowingly collect data from children under 13. If you believe a child has provided data to us, please contact us so we can delete it.
 
 ## 8. Changes to this policy
 
