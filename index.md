@@ -11,4 +11,4 @@ Automated Gunpla deal tracking.
 - [Privacy Policy](./privacy.html)
 - [Terms of Service](./terms.html)
 
-For questions, contact josemercado23.jm@gmail.com.
+For questions, contact hangar4beta@gmail.com.

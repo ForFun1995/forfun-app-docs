@@ -49,6 +49,8 @@ The Hangar4 app, its code, design, branding, and content we create are owned by 
 
 Gunpla, Gundam, and related trademarks are property of Bandai Namco Group. We are not affiliated with Bandai Namco. Product images we display are owned by their respective retailers.
 
+Some kit information (such as series, pilot, faction, era, and designer) is enriched using publicly available data from The Gundam Wiki (gundam.fandom.com), whose text is licensed under the Creative Commons Attribution-ShareAlike 3.0 license (CC BY-SA 3.0).
+
 ## 7. Feedback
 
 If you submit feedback via the in-app Feedback feature or via email, you grant us a perpetual, worldwide, royalty-free license to use that feedback to improve the app. We won't publicly attribute feedback to you without your permission.
@@ -89,4 +91,4 @@ If any part of these Terms is held unenforceable, the rest remains in effect.
 
 For questions about these Terms or any other concerns, contact:
 
-**Jose Mercado** — josemercado23.jm@gmail.com
+**Jose Mercado** — hangar4beta@gmail.com

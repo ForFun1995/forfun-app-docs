@@ -84,4 +84,4 @@ We may update this policy as the app evolves. Material changes will be announced
 
 For privacy-related questions, account deletion requests, or any other concerns, contact:
 
-**Jose Mercado** — josemercado23.jm@gmail.com
+**Jose Mercado** — hangar4beta@gmail.com

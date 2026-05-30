@@ -9,4 +9,4 @@ Served via GitHub Pages at https://forfun1995.github.io/forfun-app-docs/
 
 App code lives in a separate private repo. This repo exists only so the legal pages can be public without flipping the app source public.
 
-Contact: josemercado23.jm@gmail.com
+Contact: hangar4beta@gmail.com
